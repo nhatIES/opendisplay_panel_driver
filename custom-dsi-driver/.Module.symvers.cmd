@@ -1,0 +1,1 @@
+savedcmd_/home/abc/custom-dsi-driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/abc/custom-dsi-driver/Module.symvers -n -T /home/abc/custom-dsi-driver/modules.order -i Module.symvers -e 
