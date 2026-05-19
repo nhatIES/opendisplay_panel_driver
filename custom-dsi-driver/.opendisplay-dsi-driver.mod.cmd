@@ -1,1 +1,0 @@
-savedcmd_/home/abc/custom-dsi-driver/opendisplay-dsi-driver.mod := printf '%s\n'   opendisplay-dsi-driver.o | awk '!x[$$0]++ { print("/home/abc/custom-dsi-driver/"$$0) }' > /home/abc/custom-dsi-driver/opendisplay-dsi-driver.mod
